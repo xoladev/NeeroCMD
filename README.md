@@ -2,7 +2,7 @@
 
 [![Version](https://img.shields.io/badge/Version-1.5.3-blue?style=for-the-badge)](https://github.com/xoladev/Quantum-Experience/releases)
 [![License](https://img.shields.io/badge/License-MIT-orange?style=for-the-badge)](LICENSE)
-[![Downloads](https://img.shields.io/github/downloads/xoladev/Quantum-Experience/total?style=for-the-badge&logo=github)](https://github.com/xoladev/Quantum-Experience/releases)
+[![Downloads](https://img.shields.io/github/downloads/xoladev/NeeroCMD/total?style=for-the-badge&logo=github)]([https://github.com/xoladev/NeeroCMD/releases)
 
 NeeroCMD - это кастомная консольная оболочка, написанная на Batch, с поддержкой тем оформления, отладки и модульной системы команд.
 
